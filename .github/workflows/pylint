@@ -30,7 +30,7 @@ jobs:
         with:
           commit_message: 'Auto Fixes: Code formatted'
           commit_options: '--no-verify'
-          repository: .
+          repository: .Pawan_Theekshana
           commit_user_name: Damantha_Jasinghe 
-          commit_user_email: Damanthaja@gmail.com
-          commit_author: Damantha_Jasinghe <Damanthaja@gmail.com>
+          commit_user_email: PawanTheekshana2006@gmail.com
+          commit_author: Pawan_Theekshana <PawanTheekshana2006@gmail.com>
