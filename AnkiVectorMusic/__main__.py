@@ -1,4 +1,4 @@
-# AnkiVectorMusic (Telegram bot project)
+# MizuMusic (Telegram bot project)
 # Copyright (C) 2021  Damantha Jasinghe
 
 # This program is free software: you can redistribute it and/or modify
