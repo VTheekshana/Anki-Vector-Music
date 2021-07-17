@@ -1,5 +1,5 @@
 {
-  "name": "Anki Vector Music",
+  "name": "Mizu Music",
   "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
@@ -45,12 +45,12 @@
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
       "required": false,
-      "value": "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ"
+      "value": "FERZCH-IPWTCP-MLEMJO-DFKYMO-ARQ"
     },    
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/d42b1a9fcd8f735c4be8b.png"
+      "value": "https://telegra.ph/file/9f71c8857d020ec68dd5f.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
