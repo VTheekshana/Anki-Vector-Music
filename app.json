@@ -31,7 +31,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "AnkiSupport_Official"
+      "value": "MizuSupport_Official"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -55,7 +55,7 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "AnkiVectorUpdates"
+      "value": "MizuUpdates"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
