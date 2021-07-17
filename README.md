@@ -29,5 +29,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VTheekshana/Mizu-Music-Bot)
 
 Get pyrogram (p)  `SESSION` from here:
-[![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://replit.com/VTheekshana/Mizu-Music-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://replit.com/@Damantha126/Ankivectormusic)
 
