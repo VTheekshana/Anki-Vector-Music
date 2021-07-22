@@ -1,9 +1,9 @@
 {
   "name": "Mizu Music",
-  "logo": "https://telegra.ph/file/9f71c8857d020ec68dd5f.jpg",
+  "logo": "https://telegra.ph/file/23b3b4f2fe4a34f783aa2.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Damantha126/Anki-Vector-Music",
+  "repository": "https://github.com/VTheekshana/Mizu-Music-Bot",
   "stack": "container",
   "buildpacks": [
    {
