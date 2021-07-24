@@ -1,4 +1,4 @@
-# AnkiVectorMusic (Telegram bot project)
+# MizuMusic (Telegram bot project)
 # Copyright (C) 2021  Damantha_Jasinghe
 # Copyright (C) 2021  TheHamkerCat (Python_ARQ)
 # This program is free software: you can redistribute it and/or modify
@@ -469,7 +469,7 @@ async def play(_, message: Message):
         )
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/94f98b19b2cd42aa50f4c.jpg"
+        thumb_name = "https://telegra.ph/file/ab8d1f101de24c54f2407.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -482,7 +482,7 @@ async def play(_, message: Message):
         )
     elif urls:
         query = toxt
-        await lel.edit("🎵 **Processing**")
+        await lel.edit("🎵 **Processing @TheMizuBot**")
         ydl_opts = {"format": "bestaudio[ext=m4a]"}
         try:
             results = YoutubeSearch(query, max_results=1).to_dict()
@@ -526,7 +526,7 @@ async def play(_, message: Message):
         for i in message.command[1:]:
             query += " " + str(i)
         print(query)
-        await lel.edit("🎵 **Processing**")
+        await lel.edit("🎵 **Processing @TheMizuBot**")
         ydl_opts = {"format": "bestaudio[ext=m4a]"}
         try:
             results = YoutubeSearch(query, max_results=1).to_dict()
@@ -624,7 +624,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "DaisyMusic"
+        user.first_name = "MizuMusic"
     usar = user
     wew = usar.id
     try:
@@ -755,7 +755,7 @@ async def jiosaavn(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "AnkiVectorMusicbot"
+        user.first_name = "Mizu_Assistantt"
     usar = user
     wew = usar.id
     try:
@@ -813,7 +813,7 @@ async def jiosaavn(client: Client, message_: Message):
         sname = songs.result[0].song
         slink = songs.result[0].media_url
         ssingers = songs.result[0].singers
-        sthumb = "https://telegra.ph/file/94f98b19b2cd42aa50f4c.jpg"
+        sthumb = "https://telegra.ph/file/ab8d1f101de24c54f2407.jpg"
         sduration = int(songs.result[0].duration)
     except Exception as e:
         await res.edit("Found Literally Nothing!, You Should Work On Your English.")
